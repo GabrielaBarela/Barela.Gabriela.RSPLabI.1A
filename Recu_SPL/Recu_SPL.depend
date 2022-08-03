@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1659527439 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1659527439 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\linkedlist.h
+
+1659530865 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+	"posts.h"
+
+1659530440 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"posts.h"
+	"controller.h"
+	"parser.h"
+	"menu.h"
+
+1659529478 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"posts.h"
+	"parser.h"
+
+1659530804 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1659529065 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\posts.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"posts.h"
+	"LinkedList.h"
+
+1659529057 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\posts.h
+
+1659530010 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\controller.h
+
+1659529458 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\parser.h
+
+1659530815 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recu_spl\menu.h
+
+1659534526 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"posts.h"
+	"controller.h"
+	"parser.h"
+	"menu.h"
+
+1659527439 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\linkedlist.h
+
+1659535025 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\posts.h
+
+1659535025 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\controller.h
+
+1659529458 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\parser.h
+
+1659530815 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\menu.h
+
+1659527439 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1659534167 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+	"posts.h"
+
+1659530804 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1659529478 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"posts.h"
+	"parser.h"
+
+1659535025 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\recu_spl\posts.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"posts.h"
+	"LinkedList.h"
+
